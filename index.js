@@ -20,3 +20,4 @@ if(myNum > 8){
 } else {
     document.write("The variable is not greater than 8");
 }
+
